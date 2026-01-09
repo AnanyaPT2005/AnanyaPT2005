@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I’m a Computer Science Engineering (CSE) student, learning programming step by step.  
+Currently focusing on fundamentals, problem-solving, and building small projects to improve my skills.
+
+### 🛠️ Tools & Technologies
+- Languages: C, Java, Python (basics)
+- Concepts: DSA fundamentals, beginner algorithms
+- Tools: Git, GitHub, VS Code
+- Design (basic): Canva, Figma
+
+### 🎯 What I’m Working On
+- Strengthening coding basics  
+- Practicing DSA problems  
+- Adding beginner-friendly projects to GitHub  
+
+
