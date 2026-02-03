@@ -20,10 +20,10 @@ I’m a Computer Science Engineering (CSE) student, learning programming step by
 Currently focusing on fundamentals, problem-solving, and building small projects to improve my skills.
 
 ### 🛠️ Tools & Technologies
-- Languages: C, Java, Python (basics)
-- Concepts: DSA fundamentals, beginner algorithms
-- Tools: Git, GitHub, VS Code
-- Design (basic): Canva, Figma
+- Languages: C, Java, Python
+- Concepts: DSA, beginner algorithms
+- Tools: Git, GitHub, VS Code, mySQL
+- Design (basic): Canva
 
 ### 🎯 What I’m Working On
 - Strengthening coding basics  
