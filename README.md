@@ -15,19 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-I’m a Computer Science Engineering (CSE) student, learning programming step by step.  
-Currently focusing on fundamentals, problem-solving, and building small projects to improve my skills.
+I’m a Computer Science Engineering (CSE) student with an interest in software development and problem-solving. I’m currently building projects and strengthening my fundamentals through hands-on coding and academic coursework.
 
 ### 🛠️ Tools & Technologies
-- Languages: C, Java, Python
-- Concepts: DSA, beginner algorithms
+- Languages:  Java, Python, HTML, CSS, JS
+- Concepts: Data Structures and Algorithms (DSA)
 - Tools: Git, GitHub, VS Code, mySQL
 - Design (basic): Canva
 
 ### 🎯 What I’m Working On
 - Strengthening coding basics  
 - Practicing DSA problems  
-- Adding beginner-friendly projects to GitHub  
+- Improving problem-solving skills
+- Building and refining beginner-friendly projects
+- Exploring full stack and software development concepts 
 
 
