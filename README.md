@@ -19,7 +19,7 @@ I’m a Computer Science Engineering (CSE) student with an interest in software 
 
 ### 🛠️ Tools & Technologies
 - Languages:  Java, Python, HTML, CSS, JS
-- Concepts: Data Structures and Algorithms (DSA)
+- Concepts: Data Structures and Algorithms (DSA), Backend, APIs
 - Tools: Git, GitHub, VS Code, mySQL
 - Design (basic): Canva
 
